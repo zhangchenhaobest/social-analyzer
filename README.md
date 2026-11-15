@@ -1,3 +1,29 @@
+# social-analyzer
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+在 1000 个社交媒体与网站中分析并查找个人档案的 API、CLI 与 Web 应用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/socialanalyzerlogo_.png"></p>
 
 Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
